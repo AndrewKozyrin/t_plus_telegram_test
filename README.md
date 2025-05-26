@@ -1,2 +1,0 @@
-# t_plus_telegram_test
-t_plus_telegram_test
