@@ -1,0 +1,1 @@
+telegram-domain-verify=Group_T_Plus_Bot
